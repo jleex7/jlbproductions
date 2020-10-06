@@ -30,8 +30,21 @@ a:active {
 }
 
 .imgsize {
-        width:  735x;
+        width:  735px;
         height: 500px;
         object-fit: scale-down;
 }   
 
+.navbar-brand {
+    font-family: 'Dancing Script', cursive;
+}
+
+p {
+    font-family: 'PT Serif', serif;
+}
+
+.profile-img {
+    width:  150px;
+    height: 200px;
+    object-fit: scale-down;
+}
